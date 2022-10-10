@@ -1,5 +1,0 @@
-C:\Users\user\OneDrive\Документы\Знакомство с языками программирования\ДЗ1\obj\Debug\net6.0\ДЗ1.csproj.AssemblyReference.cache
-C:\Users\user\OneDrive\Документы\Знакомство с языками программирования\ДЗ1\obj\Debug\net6.0\ДЗ1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\OneDrive\Документы\Знакомство с языками программирования\ДЗ1\obj\Debug\net6.0\ДЗ1.AssemblyInfoInputs.cache
-C:\Users\user\OneDrive\Документы\Знакомство с языками программирования\ДЗ1\obj\Debug\net6.0\ДЗ1.AssemblyInfo.cs
-C:\Users\user\OneDrive\Документы\Знакомство с языками программирования\ДЗ1\obj\Debug\net6.0\ДЗ1.csproj.CoreCompileInputs.cache
