@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Документы\GeekBrains\Знакомство с языками программирования\Домашнее задание\Домашнее задание 8\Задача1\bin\Debug\net6.0\Домашнее задание 8.exe
+C:\Users\user\OneDrive\Документы\GeekBrains\Знакомство с языками программирования\Домашнее задание\Домашнее задание 8\Задача1\bin\Debug\net6.0\Домашнее задание 8.deps.json
+C:\Users\user\OneDrive\Документы\GeekBrains\Знакомство с языками программирования\Домашнее задание\Домашнее задание 8\Задача1\bin\Debug\net6.0\Домашнее задание 8.runtimeconfig.json
+C:\Users\user\OneDrive\Документы\GeekBrains\Знакомство с языками программирования\Домашнее задание\Домашнее задание 8\Задача1\bin\Debug\net6.0\Домашнее задание 8.dll
+C:\Users\user\OneDrive\Документы\GeekBrains\Знакомство с языками программирования\Домашнее задание\Домашнее задание 8\Задача1\bin\Debug\net6.0\Домашнее задание 8.pdb
+C:\Users\user\OneDrive\Документы\GeekBrains\Знакомство с языками программирования\Домашнее задание\Домашнее задание 8\Задача1\obj\Debug\net6.0\Домашнее задание 8.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Документы\GeekBrains\Знакомство с языками программирования\Домашнее задание\Домашнее задание 8\Задача1\obj\Debug\net6.0\Домашнее задание 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Документы\GeekBrains\Знакомство с языками программирования\Домашнее задание\Домашнее задание 8\Задача1\obj\Debug\net6.0\Домашнее задание 8.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Документы\GeekBrains\Знакомство с языками программирования\Домашнее задание\Домашнее задание 8\Задача1\obj\Debug\net6.0\Домашнее задание 8.AssemblyInfo.cs
+C:\Users\user\OneDrive\Документы\GeekBrains\Знакомство с языками программирования\Домашнее задание\Домашнее задание 8\Задача1\obj\Debug\net6.0\Домашнее задание 8.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Документы\GeekBrains\Знакомство с языками программирования\Домашнее задание\Домашнее задание 8\Задача1\obj\Debug\net6.0\Домашнее задание 8.dll
+C:\Users\user\OneDrive\Документы\GeekBrains\Знакомство с языками программирования\Домашнее задание\Домашнее задание 8\Задача1\obj\Debug\net6.0\refint\Домашнее задание 8.dll
+C:\Users\user\OneDrive\Документы\GeekBrains\Знакомство с языками программирования\Домашнее задание\Домашнее задание 8\Задача1\obj\Debug\net6.0\Домашнее задание 8.pdb
+C:\Users\user\OneDrive\Документы\GeekBrains\Знакомство с языками программирования\Домашнее задание\Домашнее задание 8\Задача1\obj\Debug\net6.0\Домашнее задание 8.genruntimeconfig.cache
+C:\Users\user\OneDrive\Документы\GeekBrains\Знакомство с языками программирования\Домашнее задание\Домашнее задание 8\Задача1\obj\Debug\net6.0\ref\Домашнее задание 8.dll
